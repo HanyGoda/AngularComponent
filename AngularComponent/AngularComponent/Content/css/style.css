@@ -1,0 +1,19 @@
+﻿body {
+    margin-top: 20px;
+}
+
+.img-display {
+    margin-bottom: 80px;
+}
+
+.ng-enter{
+    transition:1.5s linear all;
+    -webkit-transition:1.5s linear all;
+    -moz-transition:1.5s linear all;
+    -o-transition:1.5s linear all;
+    opacity:0;
+}
+
+.ng-enter-active{
+    opacity:1;
+}

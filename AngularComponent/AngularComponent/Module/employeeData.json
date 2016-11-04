@@ -1,0 +1,34 @@
+﻿{
+    "employees": [
+        {
+            "Name": "Hany Goda",
+            "Image": "../content/images/hany.jpg",
+            "Score": "97"
+        },
+        {
+            "Name": "Ammar Ali",
+            "Image": "../content/images/ammar.jpg",
+            "Score": "85"
+        },
+        {
+            "Name": "Mohamed Magdy",
+            "Image": "../content/images/magdy.jpg",
+            "Score": "95"
+        },
+        {
+            "Name": "Mohamed Hagag",
+            "Image": "../content/images/hagag.jpg",
+            "Score": "88"
+        },
+        {
+            "Name": "Ziad Ebada",
+            "Image": "../content/images/ziad.jpg",
+            "Score": "91"
+        },
+        {
+            "Name": "Abd-Allah Sheta",
+            "Image": "../content/images/sheta.jpg",
+            "Score": "80"
+        }
+    ]
+}
